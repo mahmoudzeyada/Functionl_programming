@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "ts-node index.ts"
+    "start-session-4": "ts-node session4/index.ts",
+    "start-session-6": "ts-node session6/index.ts"
   },
   "dependencies": {
     "@types/ramda": "^0.27.38",
